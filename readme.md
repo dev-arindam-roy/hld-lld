@@ -43,6 +43,35 @@ A Low-Level Design (LLD) defines the detailed structure of a software system, fo
 - Detailed Flow Charts
 - Function Specifications
 
+# Key Elements of LLD (Low-Level Design)
+1. Class Diagrams
+Defines objects, attributes, methods, and their relationships.
+
+Follows OOP principles (Encapsulation, Inheritance, Polymorphism).
+
+2. Sequence Diagrams
+Shows interaction between components over time.
+
+Captures API calls, method invocations, and event flows.
+
+3. Database Design
+ER diagrams, table structures, normalization, indexing strategies.
+
+4. API Contracts
+RESTful or GraphQL endpoints, request-response structures, authentication mechanisms.
+
+5. Component Interactions
+Microservices communication, dependency mapping.
+
+6. State Diagrams
+Defines the state transitions of entities in the system.
+
+7. Security Considerations
+Encryption, authentication, role-based access control (RBAC).
+
+8. Logging & Monitoring
+Defining log levels, exception handling, monitoring tools.
+
 ### Example:
 For the "**Leads Management**" module:
 
