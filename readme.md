@@ -28,6 +28,8 @@ For a CRM system:
 # Low-Level Design (LLD)
 Low-Level Design dives into the detailed internal logic of the individual components specified in HLD.
 
+A Low-Level Design (LLD) defines the detailed structure of a software system, focusing on module-level implementation, class structures, database schemas, APIs, and interactions between components. It serves as a blueprint for developers to implement the system effectively.
+
 ### Key Characteristics:
 - Detailed design for developers to start coding
 - Describes class names, methods, parameters, and data types
